@@ -1,0 +1,59 @@
+Type,Code,Fullname
+Playoffs,NHAF,Lost NHA finals
+Playoffs,NHLF,Lost NHL finals
+Playoffs,CQF,Lost NHL conference quarter-finals
+Playoffs,PRE,Lost NHL preliminary round
+Playoffs,F,Lost Stanley Cup finals
+Playoffs,CSF,Lost NHL conference semi-finals
+Playoffs,CF,Lost NHL conference finals
+Playoffs,SC,Won Stanley Cup
+Playoffs,DF,Lost NHL division finals
+Playoffs,QF,Lost NHL quarter-finals
+Playoffs,SF,Lost NHL semi-finals
+Playoffs,DSF,Lost NHL division semi-finals
+Playoffs,ND,ND - Stanley Cup finals halted (influenza epidemic)
+Playoffs,AVC,Won AVCO Cup
+Playoffs,AVF,Lost AVCO Cup finals
+Playoffs,AVSF,Lost AVCO Cup semi-finals
+Playoffs,AVQF,Lost AVCO Cup quarter-finals
+Playoffs,AVPRE,Lost AVCO Cup preliminary round
+Playoffs,WSF,Lost WCHL semi-finals
+Playoffs,WF,Lost WCHL finals
+Playoffs,PF,Lost PCHA finals
+Playoffs,SCSF,Lost Stanley Cup semi-finals
+Playoffs,WCS,Won Challenge Series
+Playoffs,LCS,Won Stanley Cup / Lost Challenge Series
+Conference,CC,Campbell Conference
+Conference,WA,Wales Conference
+Conference,EC,Eastern Conference
+Conference,WC,Western Conference
+Division,AM,American Division
+Division,CA,Canadian Division
+Division,ED,East Division
+Division,WD,West Division
+Division,PT,Patrick Division
+Division,AD,Adams Division
+Division,NO,Norris Division
+Division,SM,Smythe Division
+Division,AT,Atlantic Division
+Division,NE,Northeast Division
+Division,SE,Southeast Division
+Division,CE,Central Division
+Division,NW,Northwest Division
+Division,PC,Pacific Division
+Division,EW,WHA East Division
+Division,WW,WHA West Division
+Division,CW,WHA Canadian Division
+Round,QF,Quarter-Finals
+Round,SF,Semi-Finals
+Round,F,Finals
+Round,WP,Western Playoff
+Round,SCF,Stanley Cup Finals
+Round,SCSF,Stanley Cup Semi-Finals
+Round,Pre,Preliminary
+Round,DSF,Division Semi-Finals
+Round,DF,Division Finals
+Round,CQF,Conference Quarter-Finals
+Round,CSF,Conference Semi-Finals
+Round,CF,Conference Finals
+Round,ACF,Avco Cup Finals
